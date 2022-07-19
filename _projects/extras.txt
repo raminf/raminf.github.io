@@ -1,0 +1,11 @@
+TBD:
+
+- SimpleIOT blog post
+- Standardized IOT infrastructure + workshop - Once workshop is out.
+- Store of the Future
+- Content (youtube, podcasts, blog posts)  
+
+  
+JsonResume Schema:
+
+  https://jsonresume.org/schema/

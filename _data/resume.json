@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Ramin Firoozye",
+    "label": "Senior R&D Architect and Technical Manager",
+    "image": "",
+    "email": "raminfiroozye@gmail.com",
+    "url": "https://ramin.work",
+    "summary": "Innovation, R&D Engineering, new product development, and management. Especially interested in opportunities to work on connected device technologies to extend the SimpleIOT open-source IoT platform (https://simpleiot.net).",
+    "location": {
+      "city": "Berkeley",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+      "network": "Twitter",
+      "username": "raminf",
+      "url": "https://twitter.com/raminf"
+    },
+      {
+      "network": "LinkedIn",
+      "username": "raminfiroozye",
+      "url": "https://twitter.com/in/raminfiroozye"
+    }
+  ]
+  },
+  "work": [
+    {
+    "company": "Amazon Web Services",
+    "name": "Amazon Web Services",
+    "position": "Senior R&D Architect",
+    "url": "https://aws.amazon.com",
+    "startDate": "2019-01-10",
+    "summary": "Technical Lead at AWS R&D and Envision Engineering Teams.",
+    "highlights": [
+      "Projects incorporated IoT at large scale, cloud-based robotics, AR/VR, Graph Databases, voice recognition, text to speech, native mobile development, and use of the full range of AWS cloud-based services.",
+      "Created and lead development of SimpleIOT (https://simpleiot.net), a patent-pending serverless platform for creating secure, private, IOT devices.",
+      "Piloted with a number of large industrial customers. Features included end-to-end security, firmware SDKs, MQTT, data anlytics, and integration with AWS AI/ML services.",
+      "Demonstrated support for Augmented Reality real-time integration.",
+      "Released as open-source project in 2022 (https://github.com/awslabs/simpleiot).",
+      "Technologies used included: AWS CDK, Python, Typescript, React, Lambda, DynamoDB, RDS, API Gateway, Cognito, Timestream, Grafana, S3, Cloudfront, Amazon Location, Arduino/C++, and Docker.",
+      "Patent: 'Hierarchical Universal Device Identifier.'",
+      "Customers included: John Deere, Scientific Games/Light and Wonder, Emerson, Discount Tire, Nike, and Fortive. Many more under NDA."
+    ]
+  },
+    {
+    "company": "Amazon Lab126",
+    "name": "Amazon Lab126",
+    "position": "Senior Engineer",
+    "url": "https://aws.amazon.com",
+    "startDate": "2018-04-15",
+    "endDate": "2019-01-10",
+    "summary": "Member of Wireless technical team",
+    "highlights": [
+      "Worked on a variety of consumer-oriented connected devices including Alexa, FireTV, Fire Tablets, smart home, remote control products, and appliances.",
+      "Technologies included Bluetooth, Zigbee, and Wifi firmware, system architecture, and scalable cloud infrastructure.",
+      "Designed and shipped embedded wireless metric SDK. Integrated into all Alexa, FireTV, and Kindle devices from 2018 forward. Created custom Kibana dashboards for global monitoring of device performance at-scale.",
+      "Deep-dive 'Cause of Error' analysis on product line that unblocked production. Helped implement solution. Device shipped on-time. Estimated sale of 100M+ units."
+    ]
+  },
+    {
+    "company": "Fluid Hardware",
+    "name": "Fluid Hardware",
+    "position": "CTO/Co-founder",
+    "startDate": "2017-01-15",
+    "endDate": "2018-04-15",
+    "summary": "Secure Firmware Update on the cloud",
+    "highlights": [
+      "Designed and developed an automated, secure over-the-air firmware update system. Support for ARM processor and update via BLE and WiFi. Also included mobile SDKs for iOS and Android.",
+      "Developed SaaS cloud back-end using Python/Django, REST-APIs, and Docker.",
+      "Developed responsive web dashboard using Vue.js."
+    ]
+  },
+  {
+    "company": "Consultant",
+    "name": "Consultant",
+    "position": "Technology Consultant",
+    "startDate": "2008-01-15",
+    "endDate": "2017-01-15",
+    "summary": "Technology consulting services for companies ranging from startups to multi-nationals",
+    "highlights": [
+      "High-level architecture and design",
+      "Mobile : native apps for iOS and Android.",
+      "Front-end: Responsive web apps using HTML, Javascript, CSS, and Flash.",
+      "Back-end: Python/Django, REST, and Docker.",
+      "Firmware: Bluetooth, BLE, WiFi, and LoRa. Arduino, FreeRTOS on ST, Nordic, TI, and Arduino devices.",
+      "Clients included: Apple, AutoDesk, Earthlink, Ericsson, IBM, Intel, NASA, OneWheel, Oracle, Orange, Procter & Gamble, PG&E, Rockwell Collins, Sony, Taligent, and Toyota.",
+      "Prior experience available on demand."
+    ]
+  }
+
+],
+  "education": [{
+    "institution": "Pacific Lutheran University, Tacoma, WA",
+    "url": "https://www.plu.edu",
+    "area": "Software Development, English Literature, and Philosophy/Logic.",
+    "studyType": "BA"
+  }],
+  "awards": [{
+    "title": "Patent Pending",
+    "date": "2021-11-01",
+    "awarder": "AWS",
+    "summary": "Hierarchical Universal Device Identifier"
+  },
+  {
+    "title": "AutoPark: MacWorld Best of Show",
+    "date": "2010-01-06",
+    "awarder": "MacWorld Magazine",
+    "summary": "Mobile App Development. Simultaneously featured on iOS AppStore front page and several national magazines."
+  },
+    {
+    "title": "IoT TFC Member",
+    "date": "2019-01-06",
+    "awarder": "AWS",
+    "summary": "AWS Technical Experts Forum."
+  },
+    {
+    "title": "AWS Future Manager Program",
+    "date": "2021-12-25",
+    "awarder": "AWS",
+    "summary": "Management Training program."
+  },
+
+],
+  "certificates": [
+    {
+    "name": "AWS Solutions Architect Associate",
+    "issuer": "AWS"
+  },
+  {
+    "name": "AWS Solutions Developer Associate",
+    "issuer": "AWS"
+  }
+
+],
+  "skills": [{
+    "name": "Web Development",
+    "level": "",
+    "keywords": [
+      "Architecture",
+      "Writing design documents and narratives",
+      "Python",
+      "Typescript",
+      "Swift",
+      "Serverless",
+      "Java",
+      "AWS CDK",
+      "C/C++",
+      "React",
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Docker",
+      "Arduino",
+      "FreeRTOS"
+    ]
+  }],
+  "languages": [
+    {
+    "language": "English",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "Farsi",
+    "fluency": "Conversational"
+  }
+
+],
+  "interests": [
+    {
+    "name": "Writing",
+    "keywords": [
+      "fiction",
+      "non-fiction"
+    ]
+  },
+  {
+    "name": "Cooking",
+    "keywords": [
+      "fusion",
+      "experimental"
+    ]
+  },
+  {
+    "name": "Electronics",
+    "keywords": [
+      "smart home",
+      "connected devices"
+    ]
+  },
+    {
+    "name": "Video Production",
+    "keywords": [
+      "final cut pro"
+    ]
+  },
+  {
+    "name": "Aviation",
+    "keywords": [
+      "flying",
+      "pilot",
+      "private"
+    ]
+  },
+    {
+    "name": "Baseball",
+    "keywords": [
+      "san francisco giants"
+    ]
+  }
+]
+}
