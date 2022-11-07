@@ -7,21 +7,22 @@ description: >
 
 date: '08-01-2018'
 image: 
-  path: /assets/img/projects/simpleiot/iot-1.png
+  path: /assets/img/projects/simpleiot/iot-6.png
   srcset: 
-    960w:  /assets/img/projects/simpleiot/iot-1.png
+    960w:  /assets/img/projects/simpleiot/iot-6.png
 links:
   - title: Link
-    url: https://github.com/awslabs/simpleiot-cli
+    url: https://simpleiot.net
 sitemap: false
 ---
 
 ![](/assets/img/projects/simpleiot/TopBar.png)
 
-Creator and principal developer of *SimpleIOT*, a serverless connected-device platform. The system is being released as 100% open-source under AWS Labs in 2022. 
+Creator and principal developer of *SimpleIOT*, a serverless connected-device platform. The system was released as 100% open-source under AWS Labs in 2022. 
 
 Project was developed in coordination with several large manufacturers of industrial and consumer equipment.
 
+![](/assets/img/projects/simpleiot/iot-1.png)
 
 ![](/assets/img/projects/simpleiot/iot-2.png)
 
