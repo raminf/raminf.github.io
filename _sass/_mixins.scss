@@ -32,6 +32,8 @@
 
 @mixin aspect-ratio($width, $height) {
   position: relative;
+  object-fit: contain;
+
 
   &::before {
     display: block;

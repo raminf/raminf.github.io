@@ -86,6 +86,7 @@ main:not(.layout-resume) {
           display: block; 
           border-top-left-radius: $border-radius;
           border-top-right-radius: $border-radius;
+          object-fit: contain;
         }
       }
     }

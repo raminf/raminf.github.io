@@ -76,6 +76,8 @@ address {
 img {
   vertical-align: middle;
   border-style: none; // Remove the border on images inside links in IE 10-.
+  object-fit: contain;
+
 }
 
 svg:not(:root) {
